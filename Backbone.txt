@@ -1,0 +1,85 @@
+rohanrajore00@gmail.com
+9535375027
+---------------------------
+
+
+https://www.sublimetext.com/3
+https://packagecontrol.io/installation#st3
+
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js
+https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js
+https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.3.3/backbone-min.js
+
+Install Jasmine: Java Unit Testing Framework
+-------------------------------------------
+https://github.com/jasmine/jasmine/releases
+jasmine-standalone-2.4.1.zip
+--------------------------------------------
+
+C:\Users\281363\Desktop\Backbone\backend\backend>node app.js
+
+Install Karma:
+---------------------------------------
+NodejS command prompt:
+C:\Users\281363>npm install -g karma
+C:\Users\281363>karma --version
+----------------------------------------
+
+C:\Users\281363\Downloads\jasmine-standalone-2.4.1>karma init
+
+C:\Users\281363\Downloads\jasmine-standalone-2.4.1>karma init
+
+Which testing framework do you want to use ?
+Press tab to list possible options. Enter to move to the next question.
+> jasmine
+
+Do you want to use Require.js ?
+This will add Require.js plugin.
+Press tab to list possible options. Enter to move to the next question.
+> no
+
+Do you want to capture any browsers automatically ?
+Press tab to list possible options. Enter empty string to move to the next quest
+ion.
+> Chrome
+>
+
+What is the location of your source and test files ?
+You can use glob patterns, eg. "js/*.js" or "test/**/*Spec.js".
+Enter empty string to move to the next question.
+>
+
+Should any of the files included by the previous patterns be excluded ?
+You can use glob patterns, eg. "**/*.swp".
+Enter empty string to move to the next question.
+>
+
+Do you want Karma to watch all the files and run the tests on change ?
+Press tab to list possible options.
+> yes
+
+
+Config file generated at "C:\Users\281363\Downloads\jasmine-standalone-2.4.1\kar
+ma.conf.js".
+
+
+C:\Users\281363\Downloads\jasmine-standalone-2.4.1>
+
+---------------------------------------------------------
+
+C:\Users\281363>npm install -g jasmine-core
+------------------------------------------------------
+Install Node package: from https://www.npmjs.com
+C:\Users\281363>npm install -g generator-karma
+C:\Users\281363\Desktop\Yoemen>npm install -g generator-mocha
+nmp install bower
+C:\Users\281363>npm install -g grunt-cli
+--------------------------------------------
+npm install -g generator-karma
+npm install -g grunt-cli
+npm install -g yo
+npm install -g generator-backbone
+yo backbone myapp
+------------------------------
+https://git-scm.com/downloads

@@ -1,0 +1,10 @@
+{
+  "name": "js-node-backend",
+  "version": "0.0.1",
+  "description": "simple REST backend",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^3.4.8"
+  }
+}
